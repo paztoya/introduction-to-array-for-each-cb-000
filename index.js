@@ -9,4 +9,4 @@ var animals = [ "dog", "cat", "squirrel"];
 doToElementsInArray(animals, changeCompletely);
 
 //logout animals --pretty cool, right?
-console.console.log(animals);
+console.log(animals);
