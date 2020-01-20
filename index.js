@@ -10,4 +10,3 @@ doToElementsInArray(animals, changeCompletely);
 
 //logout animals --pretty cool, right?
 console.console.log(animals);
-// Add your changeCompletely() function here:
